@@ -1,4 +1,4 @@
-### Hello there, I'm OverRevvv👋
+### Hello there, I'm OverRevvv
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
