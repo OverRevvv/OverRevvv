@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=30&pause=1000&color=600895&width=435&lines=Hi%2C+I'm+OverRevvv;Web+Developer+%F0%9F%8C%90;Driven+by+Interest" alt="Typing SVG" /></a>
-</p>
+</p> -->
 <p align="center">
 <a href="https://wakatime.com/@2bd5d4a8-0ada-426e-b2f9-68f97572c4db"><img src="https://wakatime.com/badge/user/2bd5d4a8-0ada-426e-b2f9-68f97572c4db.svg" alt="Total time coded since Mar 15 2023" /></a>
 </p>
