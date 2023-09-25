@@ -15,4 +15,4 @@
 <a href="https://twitter.com/overrevvv"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0)](https://visitcount.itsvg.in) -->
+ [![](https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0)](https://visitcount.itsvg.in) 
