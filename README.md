@@ -15,11 +15,14 @@
 <a href="https://twitter.com/overrevvv"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
-<!--
+
 <details Open> 
-<summary> . </summary>
+<summary> Skills </summary>
+<div align="center">
+<img title="a title" alt="Bleh" src="https://media.tenor.com/l0OOJ5FLoW8AAAAd/tongue-out.gif">
+</div>
 </details>
--->
+
 
 <!-- [![](https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- Chivo , Orbitron, Caveat, Martian Mono,Handjet, REM, Unbounded, Tourney, Merienda, Jura -->
