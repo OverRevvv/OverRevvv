@@ -28,6 +28,9 @@
 <div align="center">
 <img title="wakatime-lang" alt="ooof" src="https://wakatime.com/share/@OverRevvv/3fec2e3c-fe44-4ba7-9108-187388644b0c.svg" height="400px"/>
 <img title="wakatime-table" alt="ooooof" src="https://wakatime.com/share/@OverRevvv/40967195-8ae2-4f96-b2c0-d3c773e2612b.svg"/>
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0" alt="Visit Count">
+</p>
 </div>
 </details>
 <!-- [![](https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0)](https://visitcount.itsvg.in) -->
