@@ -26,9 +26,9 @@
 <details>
 <summary>Wakatime Stats</summary>
 <div align="center">
-<img title="wakatime-lang" alt="ooof" src="https://wakatime.com/share/@OverRevvv/26f415fb-2126-4d11-a8a5-8231b4b16ef5.svg" height="500px"/>
+<img title="wakatime-lang" alt="ooof" src="https://wakatime.com/share/@OverRevvv/26f415fb-2126-4d11-a8a5-8231b4b16ef5.svg" height="300px"/>
 <br/>
-<img title="wakatime-table" alt="ooooof" src="https://wakatime.com/share/@OverRevvv/35a0b39d-7cf9-43c5-b9c7-274f4a356974.svg" height="170px"/>
+<img title="wakatime-table" alt="ooooof" src="https://wakatime.com/share/@OverRevvv/35a0b39d-7cf9-43c5-b9c7-274f4a356974.svg" height="130px"/>
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0" alt="Visit Count">
 </p>
