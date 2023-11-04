@@ -31,7 +31,16 @@
 <img title="wakatime-table" alt="ooooof" src="https://wakatime.com/share/@OverRevvv/35a0b39d-7cf9-43c5-b9c7-274f4a356974.svg" height="140px"/>
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0" alt="Visit Count">
+
+<!-- <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=OverRevvv&label=&color=12&icon=3&pretty=false" />
+</a> -->
+
 </p>
+
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Overrevvv/count.svg) -->
+
 </div>
 </details>
 <!-- [![](https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0)](https://visitcount.itsvg.in) -->
