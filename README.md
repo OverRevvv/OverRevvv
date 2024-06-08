@@ -14,10 +14,13 @@
 <a href="https://www.linkedin.com/in/arnav-kumar-163731229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/overrevvv"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
-
+<br/>
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0" alt="Visit Count">
+<p/>
 
 <details > 
-<summary> Skills </summary>
+<summary> Skills  </summary>
 <div align="center">
 
 # 💻 Tech Stack:
@@ -45,10 +48,7 @@
 </a> -->
 
 </p>
-
-<img src="https://visitcount.itsvg.in/api?id=OverRevvv&icon=0&color=0" alt="Visit Count">
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Overrevvv/count.svg) -->
-
 </div>
 </details>
 <!-- Chivo , Orbitron, Caveat, Martian Mono,Handjet, REM, Unbounded, Tourney, Merienda, Jura -->
